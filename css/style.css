@@ -5,10 +5,20 @@ body{
     background-repeat: no-repeat;
 }
 
+.title{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 55%;
+    font-size: medium;
+    border: solid 1px black;
+    background-color: black;
+}
+
 .form{
     text-align: center;
     color: white;
-    margin-top: 60%;
+    margin-top: 10%;
     margin-bottom: 36%;
 }
 
