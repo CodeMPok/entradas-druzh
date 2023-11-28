@@ -1,0 +1,19 @@
+body{
+    background-image: url(../assets/fondo\ runner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form{
+    text-align: center;
+    color: white;
+    margin-top: 80%;
+    margin-bottom: 56%;
+}
+
+footer{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
